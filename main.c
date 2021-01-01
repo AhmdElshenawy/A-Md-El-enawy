@@ -3,7 +3,7 @@
 int main(void)
 {
 	
-	
+	int z = 20 ;
 	
 	
 	
